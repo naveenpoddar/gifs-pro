@@ -1,9 +1,10 @@
 # Gifs Pro
 
-Getting Random Gifs are easy!\
-Just Use me
+> Get a Random Gif simple and Easily by using this package.
 
-**Try Now**
+#
+
+**Example :**
 
 ```javascript
 const gifs = require('gifs-pro'); // require package
