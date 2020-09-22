@@ -1,0 +1,13 @@
+{
+  "name": "gifs-pro",
+  "version": "1.0.2",
+  "description": "A Simple Package that Brings Random Gifs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Naveen",
+  "keywords": ["discord.js gif", "naveenDev", "gifspro", "gifpro"],
+  "license": "ISC"
+}
